@@ -1,0 +1,7 @@
+*.class
+*.jar
+*.log
+*.zip
+/out/
+/target/
+/Oracle_JDK-24/
